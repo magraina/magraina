@@ -8,5 +8,6 @@ Programming has always somehow accompanied my life, both privately and professio
 
 - 🌱 I’m currently learning and expanding my knowledge using roadmaps on [roadmap.sh](https://roadmap.sh)
 - 📫 How to reach me: [hello@sheepcs.de](mailto:hello@sheepcs.de)
-
+<!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65afaf380c5481228324fa40?variant=dark&roadmaps=backend%2Cjavascript%2Ctypescript%2Cnodejs)](https://roadmap.sh)
+-->
